@@ -32,13 +32,13 @@ gibi temel iOS geliştirme konuları öğrenildi.
 
 <table>
   <tr>
-    <td style="padding: 10px;" align="center">
+    <td style="padding: 50px;" align="center">
       <img src="https://github.com/user-attachments/assets/fd21a350-ccdb-4ca0-a8a0-5b5cfd839d24" width="200"/>
     </td>
-    <td style="padding: 10px;" align="center">
+    <td style="padding: 50px;" align="center">
       <img src="https://github.com/user-attachments/assets/945b2d45-183a-4510-804e-72acc7fdf34e" width="200"/>
     </td>
-    <td style="padding: 10px;" align="center">
+    <td style="padding: 50px;" align="center">
       <img src="https://github.com/user-attachments/assets/492165ae-fe59-45d8-9fdc-4a74d7e43293" width="200"/>
     </td>
   </tr>
