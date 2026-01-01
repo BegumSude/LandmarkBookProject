@@ -28,6 +28,13 @@ Bu proje sayesinde:
 gibi temel iOS geliştirme konuları öğrenildi.
 
 ---
+<img width="1168" height="632" alt="Ekran Resmi 2026-01-01 17 13 49" src="https://github.com/user-attachments/assets/3d6e2f2f-6d18-410d-9baf-6bdb09b38f8f" />
+
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2026-01-01 at 17 57 52" src="https://github.com/user-attachments/assets/fd21a350-ccdb-4ca0-a8a0-5b5cfd839d24" />
+
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2026-01-01 at 17 58 55" src="https://github.com/user-attachments/assets/945b2d45-183a-4510-804e-72acc7fdf34e" />
+
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2026-01-01 at 17 59 01" src="https://github.com/user-attachments/assets/492165ae-fe59-45d8-9fdc-4a74d7e43293" />
 
 ## 📁 Proje Yapısı
 
